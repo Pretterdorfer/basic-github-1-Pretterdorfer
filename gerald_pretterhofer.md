@@ -1,3 +1,3 @@
 ## Gerald Pretterhofer
-17 years old
+17
 student@HTLWeiz
