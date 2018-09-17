@@ -1,2 +1,3 @@
-##17 years old
-##student@HTLWeiz
+//Gerald Pretterhofer
+17 years old
+student@HTLWeiz
